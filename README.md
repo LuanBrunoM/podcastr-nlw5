@@ -14,7 +14,7 @@ Acesse o layout do projeto [aqui](https://www.figma.com/file/Gk90RPWwW2mFnhCLUFm
 * Sass
 * Axios
 
-## :computer: Como executar o projeto
+## :computer: Como executar o projeto na sua máquina
 
 1. Certifique-se de ter o Node.js instalado em sua máquina.
 2. Clone este repositório para o seu computador.
