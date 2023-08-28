@@ -1,6 +1,6 @@
 # Podcastr | Next Level Week #05
 
-Projeto desenvolvido durante a Next Level Week 5, evento organizado pela [Rocketseat](https://www.rocketseat.com.br/). O Podcastr é um app de podcasts com a proposta de discutir temas voltados a técnologias de desenvolvimento web. 
+Projeto desenvolvido durante a Next Level Week 5, evento organizado pela [Rocketseat](https://www.rocketseat.com.br/). O Podcastr é um app de podcasts com a proposta de discutir temas voltados a tecnologias de desenvolvimento web. 
 
 <img width="400px"  src="./.github/images/img1.png" /> <img width="400px"  src="./.github/images/img2.png" />
 
